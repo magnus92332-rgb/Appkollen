@@ -1,0 +1,8 @@
+{
+  "name": "HemKollen Pro",
+  "description": "En allt-i-ett-app för ditt hem: meddelanden från Message Pro, elförbrukning, vattenförbrukning och avfallshantering.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
